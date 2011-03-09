@@ -1,5 +1,5 @@
 package Params::Validate::Checks::Integer;
-# ABSTRACT: Integer parameter validation
+# ABSTRACT: Params::Validate checks for functions taking integer arguments
 use strict;
 use warnings;
 
